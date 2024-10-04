@@ -1,0 +1,41 @@
+body{
+    background-color: #c0ab7a;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 55px;
+    color: #000;
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-family: "PT Serif", serif;
+
+}
+
+p{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 55px;
+    color: #000;
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-family: "Quicksand", serif;
+}
+
+a{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 55px;
+    color: #6a451f;
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-family: "Quicksand", serif;
+
+}
+
+
